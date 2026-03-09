@@ -1,10 +1,7 @@
 body, ul, li, h1, h2, a{
-  
-  
   margin: 0;
   padding: 0;
   font-family: tahoma;
-  
 }
 p{
   /* Insert a font-size property and set it's value to 18px */
@@ -21,11 +18,11 @@ header{
   z-index: 1;
 }
 header h1{
-  /* Insert a color property and set it's value to white  */
-  /* Insert a border property and set it's value to 8px solid white  */
-  /* Insert a display property and set it's value to inline-block  */
-  /* Insert a padding property and set it's value to 6px and 12px  */
-  /* Insert a border-radius property and set it's value to 36px */
+  color: white  ;
+  border: 8px solid white;
+  display: inline-block;
+  padding: 6px 12px;
+  border-radius: 36px;
 }
 .banner{
   position: relative;
