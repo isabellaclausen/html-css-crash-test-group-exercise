@@ -136,10 +136,10 @@ section.join h2{
   font-size: 36px;
 }
 form {
-  /* Insert a padding-left property with following value: 1.5rem */
-  /* Insert a pading-top property with following value: 6rem */
-    padding-left: 1.5rem;
-    padding-top: 6rem;
+  padding-left: 1.5rem;
+  padding-top: 6rem;
+  padding-left: 1.5rem;
+  padding-top: 6rem;
 }
 form input{
   /* Insert a margin property and set it's value to 20px and 0  */
