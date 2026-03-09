@@ -43,7 +43,6 @@ header h1{
 } 
 
 .banner .welcome span{
-  /* Insert a font-size property and set it's value to 1.4em */
   font-size: 1.4em;
 }
 nav{
