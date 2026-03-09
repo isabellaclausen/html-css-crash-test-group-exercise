@@ -8,6 +8,7 @@ body, ul, li, h1, h2, a{
 }
 p{
   /* Insert a font-size property and set it's value to 18px */
+  font-size: 18px;
 }
 header{
   background-color: #F63232;
