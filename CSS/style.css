@@ -83,8 +83,7 @@ main{
   box-sizing: border-box;
 }
 article h2{
-  /* Insert a color property and set it's value to #F63232  */
-  /* Insert a font-size property and set it's value to 48px */
+  color: #F63232;
   font-size: 48px;
 }
 article p{
