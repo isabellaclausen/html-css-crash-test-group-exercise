@@ -4,7 +4,6 @@ body, ul, li, h1, h2, a{
   font-family: tahoma;
 }
 p{
-  /* Insert a font-size property and set it's value to 18px */
   font-size: 18px;
 }
 header{
@@ -17,6 +16,7 @@ header{
   left: 0;
   z-index: 1;
 }
+
 header h1{
   color: white  ;
   border: 8px solid white;
@@ -27,9 +27,11 @@ header h1{
 .banner{
   position: relative;
 }
+
 .banner img{
   max-width: 100%;
 }
+
 .banner .welcome{
   background:#FEB614;
   color: white;
@@ -39,6 +41,7 @@ header h1{
   left: 0;
   top: 30%;
 } 
+
 .banner .welcome span{
   /* Insert a font-size property and set it's value to 1.4em */
 }
