@@ -69,7 +69,7 @@ nav li a{
   color: #4B4B4B;
 }
 nav li a:hover{
-  /* Insert a text-decoration property and set it's value to underline */
+  text-decoration: underline;
 }
 nav li a.join{
   color: #F63232;
